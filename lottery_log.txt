@@ -1,0 +1,13 @@
+[2025-04-17 11:45:51] Lottery system started.
+[2025-04-17 11:45:54] User registered: subhash
+[2025-04-17 11:45:56] User registered: satyam
+[2025-04-17 11:46:00] User registered: priyanshu
+[2025-04-17 11:46:03] User registered: shivam
+[2025-04-17 11:46:08] User registered: soyab
+[2025-04-17 11:46:10] User registered: akash
+[2025-04-17 11:46:15] User registered: sujal
+[2025-04-17 11:46:17] User registered: romit
+[2025-04-17 11:46:21] User registered: kaif
+[2025-04-17 11:46:33] User registered: kaushal
+[2025-04-17 11:46:39] Winner selected: satyam
+[2025-04-17 11:46:39] Lottery system finished.
